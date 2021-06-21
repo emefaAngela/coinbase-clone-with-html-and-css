@@ -1,0 +1,211 @@
+body{
+
+}
+header{
+    display:flex ;
+    flex-direction: row;
+    margin: auto;
+}
+h1{
+    color: blue;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+ul{
+    display: inline-block;
+    margin: auto;
+    margin-left: 120px;
+}
+
+
+li{
+    display: inline-block;
+    list-style-type: none;
+    margin: 20px;
+
+}
+#signin{
+    margin-top: 15px;
+    margin-left: 60px;
+}
+#getstarted{
+    background-color: blue;
+    color: white;
+    margin-left: 20px;
+    border: 0px;
+    height: 30px;
+    border-radius: 2px;
+}
+#portfolio{
+display: flex;
+flex-direction: row;
+margin: 80px;
+
+
+}
+#portfoliotext{
+margin-left: 30px;
+}
+#portfolioimage{
+margin-right: 80px;
+
+}
+#h2{
+    font-size: 60px;
+}
+#email{
+    background-color: white;
+    color: rgb(139, 136, 136);
+    border: 0px;
+    border-color: rgb(101, 103, 104);
+    border-radius: 2px;
+    height: 50px;
+    width: 120px;
+}
+#portfoliobutton{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    border: 0px;
+    border-radius: 2px;
+    width: 100px;
+}
+#buy{
+    background-color: green;
+    color: white;
+    border: 0px;
+    border-radius: 2px;
+    height: 30px;
+    width: 60px;
+}
+table{
+    color: rgb(196, 193, 193);
+}
+tr{
+    width: 80px;
+}
+#coins-deals{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+#coins{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+}
+#coinrow{
+    padding: 10px;
+}
+#earn{
+    padding-left: 300px;
+    color: rgb(59, 192, 59);
+    width: 120px;
+    font-size: 15px;
+}
+#h3{
+    font-size: 30px;
+}
+#startearning{
+    background-color: blue;
+    color:white;
+    width: 100px;
+    height: 40px;
+    border: 0px;
+    border-radius: 2px;
+}
+#text{
+    text-align: center;
+    padding: 20px;
+}
+#h5{
+    font-size: 40px;
+}
+#manageportfolio{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+}
+#h6{
+    font-size: 20px;
+    text-emphasis: bold;
+}
+#image{
+    margin-left: 20px;
+}
+#text2{
+    text-align: center;
+    padding: 50px;
+}
+#about{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+}
+#storage{
+    margin-left: 60px;
+    text-align: center;
+
+}
+#Insurance{
+    margin-left: 60px;
+    text-align: center;
+}
+#practices{
+    margin-left: 60px;
+    text-align: center;
+}
+#milestone{
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.h7{
+    font-size: 60px;
+    margin-left: 200px;
+}
+.attribute{
+    color: azure;
+    margin-left: 200px;
+}
+#text3{
+    text-align: center;
+    padding: 50px;
+}
+#process{
+    display: flex;
+    flex-direction: row;
+}
+#howto{
+    background: url(howto2.jpeg);
+    background-repeat: none;
+    background-position: right;
+    height: 320px;
+    padding: 70px;
+}
+
+
+#h10{
+    color: black;
+}
+tr{
+    height: 60px;
+    padding: 10px;
+    margin: 20px;
+}
+td{
+    margin: 20px;
+}
+#info{
+    color: black;
+}
+#infotext{
+    padding: 20px;
+}
+#deal{
+    
+}
